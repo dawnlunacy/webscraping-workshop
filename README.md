@@ -8,8 +8,8 @@
    ### Road Map / Psuedocode: 
     Is Mercury in Retrograde? Let's find out: 
     1. // visit https://www.ismercuryinretrograde.com/
-    2.  //read the title -span- 
-    3.  // read the span at index 0 
+    2.  // read the title span at index 0 
+    3.  // read the span at index 1
     4.  // read the strong tag
 
 
